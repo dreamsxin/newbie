@@ -1,0 +1,10 @@
+<flash_project name="~TBWGame" version="1">
+    <project_file path="./~TBWGame.fla" filetype="fla" profile="" />
+    <project_file path="./.\net\zylum\tileBasedWorld\Map.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\Node.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\BFS.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\Utils.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\Queue.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\TBWGame.as" filetype="as" />
+    <project_file path="./.\net\zylum\tileBasedWorld\Tile.as" filetype="as" />
+</flash_project>

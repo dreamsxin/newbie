@@ -1,0 +1,11 @@
+package myleft.enum
+{
+	public class RenderStyleType
+	{
+		static public const WIREFRAME:String = "wireframe";
+		static public const SOLID:String = "solid";
+		static public const SHADED:String = "shaded";
+		
+		static public const NONE:String = "none";
+	}
+}

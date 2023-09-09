@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<baseinfo width="10" height="10" tilewidth="30" tileheight="30"/>
+	<tiles>
+		<tile x="0" y="0" walkable="false" mc="TileClip" frame="1"/>
+		<tile x="0" y="1" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="0" y="2" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="0" y="3" walkable="false" mc="TileClip" frame="4"/>
+		<tile x="0" y="4" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="0" y="5" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="0" y="6" walkable="false" mc="TileClip" frame="1"/>
+		<tile x="0" y="7" walkable="false" mc="TileClip" frame="1"/>
+		<tile x="0" y="8" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="0" y="9" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="0" y="10" walkable="true" mc="TileClip" frame="2"/>
+
+		<tile x="1" y="0" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="1" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="2" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="3" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="4" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="5" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="6" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="7" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="8" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="9" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="1" y="10" walkable="true" mc="TileClip" frame="2"/>
+
+		<tile x="2" y="0" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="2" y="1" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="2" y="2" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="2" y="3" walkable="false" mc="TileClip" frame="4"/>
+		<tile x="2" y="4" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="2" y="5" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="2" y="6" walkable="false" mc="TileClip" frame="4"/>
+		<tile x="2" y="7" walkable="false" mc="TileClip" frame="1"/>
+		<tile x="2" y="8" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="2" y="9" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="2" y="10" walkable="true" mc="TileClip" frame="2"/>
+
+		<tile x="3" y="0" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="3" y="1" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="3" y="2" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="3" y="3" walkable="false" mc="TileClip" frame="4"/>
+		<tile x="3" y="4" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="3" y="5" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="3" y="6" walkable="false" mc="TileClip" frame="4"/>
+		<tile x="3" y="7" walkable="false" mc="TileClip" frame="1"/>
+		<tile x="3" y="8" walkable="false" mc="TileClip" frame="3"/>
+		<tile x="3" y="9" walkable="true" mc="TileClip" frame="2"/>
+		<tile x="3" y="10" walkable="true" mc="TileClip" frame="2"/>
+	</tiles>
+	<items>
+		<item></item>
+	</items>
+	<chars>
+		<char uid="10000" x="1" y="1" speed="4" mc="CharClip">王者归来</char>
+	</chars>
+</map>

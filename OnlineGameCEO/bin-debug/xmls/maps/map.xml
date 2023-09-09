@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenes>
+	<grid s="25" w="12" l="12" h="0"/>
+	<view w="300" h="200"/>
+	<sprites>
+		<sprite src="media/char.swf"/>
+		<sprite src="media/floor.swf"/>
+	</sprites>
+	<hits>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,0,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,0,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,0,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,0,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,0</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+		<hit>1,1,1,1,1,1,1,1,1,1,1</hit>
+	</hits>
+	<floors>
+		<floor size="25,25,10" pos="0,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="0,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="0,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="0,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="0,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="0,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="25,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="25,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="25,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="25,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="25,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="25,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="50,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="50,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="50,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="50,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="50,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="50,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="75,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="75,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="75,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="75,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="75,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="75,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="100,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="100,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="100,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="100,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="100,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="100,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="125,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="125,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="125,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="125,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="125,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="125,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="150,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="150,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="150,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="150,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="150,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="150,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="175,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="175,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="175,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="175,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="175,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="175,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="200,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="200,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="200,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="200,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="200,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,200,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="200,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="225,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="225,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="225,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="225,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="225,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,225,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="225,275,-10" sprite="floor_2,1"/>
+
+		<floor size="25,25,10" pos="250,0,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="250,25,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="250,50,-10" sprite="floor_0,1"/>
+		<floor size="25,25,10" pos="250,75,-10" sprite="floor_1,1"/>
+		<floor size="25,25,10" pos="250,100,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,125,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,150,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,175,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,250,-10" sprite="floor_2,1"/>
+		<floor size="25,25,10" pos="250,275,-10" sprite="floor_2,1"/>
+	</floors>
+</scenes>
